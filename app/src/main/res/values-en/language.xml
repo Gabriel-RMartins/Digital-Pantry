@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">DispensaPessoal</string>
+    <string name="regista_te">Signup</string>
+    <string name="minhaPantry">My Pantries...</string>
+    <string name="bemvindo">Hello</string>
+    <string name="numberproducts">Number of products</string>
+    
+    
+</resources>

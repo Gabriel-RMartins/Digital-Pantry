@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">DispensaPessoal</string>
+    <string name="regista_te">Regista-te</string>
+    <string name="minhaPantry">As minhas Dispensas</string>
+    <string name="bemvindo">Olá</string>
+    <string name="numberproducts">Número de produtos</string>
+</resources>

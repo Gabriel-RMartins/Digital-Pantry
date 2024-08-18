@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "359119514151",
+    "project_id": "grupo18cmu-aaa5e",
+    "storage_bucket": "grupo18cmu-aaa5e.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:359119514151:android:6e68d2fa22f517a68f7c02",
+        "android_client_info": {
+          "package_name": "pp.ipp.estg.dispensapessoal"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAoKltpHZzB_waU2zH-Jv1j2KF-Flk3LrM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
